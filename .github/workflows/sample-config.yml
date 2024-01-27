@@ -5,7 +5,7 @@ on:
 
 jobs:
   acao_inicial_job:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     steps:
       - name: Imprime OLA
         run: echo 'Ola'
